@@ -1,0 +1,8 @@
+This directory is for putting your projects source code into. The install script 
+will then be pointed here to do any builds, copy of built source binaries to an 
+installed product server, etc.
+
+Most often in JBoss demo projects, the web applications, web services, and other
+client jars will be created here in a maven project. After building the JAR / WAR
+would be copied into the JBoss application server.
+
