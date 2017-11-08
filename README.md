@@ -92,6 +92,8 @@ See the tagged releases for the following versions of the product:
 
 - v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with OpenShift genereated routes and service URLs.
 
+![Where's my bag](https://github.com/redhatdemocentral/rhcs-baggage-delivery-demo/blob/master/docs/demo-images/where-is-my-bag.jpg?raw=true)
+
 ![Pod](https://github.com/redhatdemocentral/rhcs-baggage-delivery-demo/blob/master/docs/demo-images/ocp-baggage-pod.png?raw=true)
 
 ![App](https://github.com/redhatdemocentral/rhcs-baggage-delivery-demo/blob/master/docs/demo-images/ocp-baggage-app.png?raw=true)
