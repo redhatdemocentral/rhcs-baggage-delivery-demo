@@ -1,6 +1,6 @@
 App Dev Cloud with Baggage Delivery Demo
 ==============================================
-This demo is to install JBoss BPM Suite based vacation request application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning HR employee vacation request example containerized on OCP.
+This demo is to install JBoss BPM Suite based vacation request application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning baggage delivery example containerized on OCP.
 
 A baggage delivery service using BPM. A business friendly demo using form modeler, bpm process, decisions table web, spreadsheet, dsl and bam.  
 
