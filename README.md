@@ -51,17 +51,17 @@ flyer status {None, Bronze, Silver, Gold}, Country Code, Zip if in US and number
 If in US, will pass in zip code to zip code web service. Only the following zip codes will return 
 states. Any other zip will return Texas.
 
-	  //Park Ridge, IL
-		zipCodes.put("60068", "IL");
+    //Park Ridge, IL
+    zipCodes.put("60068", "IL");
 		
-		//Honolulu, HI
-		zipCodes.put("96801", "HI");
+    //Honolulu, HI
+    zipCodes.put("96801", "HI");
 		
-		//New York, NY
-		zipCodes.put("10001", "NY");
+    //New York, NY
+    zipCodes.put("10001", "NY");
 		
-		//Bethel, AK
-		zipCodes.put("99559", "AK");
+    //Bethel, AK
+    zipCodes.put("99559", "AK");
 
 After zip code service is called, the state field on passenger is used in web decision table to 
 determine the cost of shipping.  Next, a DSL is used to figure out a surcharge for AK and HI.  
