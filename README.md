@@ -11,6 +11,8 @@ Install on OpenShift
 
     - [OCP Install Demo](https://github.com/redhatdemocentral/ocp-install-demo)
 
+    - [Red Hat Container Development Kit (CDK) using Minishift](https://developers.redhat.com/products/cdk/overview)
+
     - or your own OpenShift installation.
 
 2. [Download and unzip this demo.](https://github.com/redhatdemocentral/rhcs-baggage-delivery-demo/archive/master.zip)
@@ -33,14 +35,6 @@ script):
 
 
 Notes
------
-This project can be installed on any OpenShift platform, such as OpenShift Container Platform.
-It's possible to install it on any available installation by pointing this installer to an OpenShift IP address:
-
-```
-  $ ./init.sh IP
-```
-
 -----
 
 If for any reason the installation breaks or you want a new JBoss BRMS installation, just remove the project rhcs-bpms-install-demo
@@ -89,6 +83,8 @@ Supporting Articles
 Released versions
 -----------------
 See the tagged releases for the following versions of the product:
+
+- v1.1 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with baggage delivery installed and available on CDK with Minishift.
 
 - v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with OpenShift genereated routes and service URLs.
 
