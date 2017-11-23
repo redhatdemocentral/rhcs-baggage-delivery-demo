@@ -77,6 +77,8 @@ an overview presentation of the project.
 
 Supporting Articles
 -------------------
+- [AppDev in the Cloud with Baggage Delivery Solutions](http://www.schabell.org/2017/11/appdev-in-cloud-with-baggage-delivery-solutions.html)
+
 - [JBoss BPM Baggage Delivery is Helping Travelers with Lost Bags](http://www.schabell.org/2015/03/jboss-bpmsuite-helping-travelers-with-lost-bags.html)
 
 
