@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/redhatdemocentral/rhcs-baggage-delivery-demo).
+
+
 App Dev Cloud with Baggage Delivery Demo
 ==============================================
 This demo is to install JBoss BPM Suite based vacation request application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning baggage delivery example containerized on OCP.
